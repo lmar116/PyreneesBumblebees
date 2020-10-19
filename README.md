@@ -9,4 +9,4 @@ Journal: Proceedings of the Royal Society B: Biological Sciences
 
 Author list: Leon Marshall*, Floor Perdijk, Nicolas Dendoncker, William Kunin, Stuart Roberts, Koos Biesmeijer
 
-* Corresponding author
+\* Corresponding author
