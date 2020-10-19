@@ -1,0 +1,912 @@
+Visitor,Plant,Date,Site,Data,MinEle,MaxEle,EleZone
+Bombus bohemicus,Buddleia davidii,24/8/2005,P188,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Origanum vulgare,24/8/2005,P189,Survey2005-06,1000,1000,1000-1200
+Bombus quadricolor,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus humilis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus humilis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus humilis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus humilis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus pascuorum,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Echium vulgare,24/8/2005,P190,Survey2005-06,1000,1000,1000-1200
+Bombus pascuorum,Buddleia davidii,24/8/2005,P191,Survey2005-06,1000,1000,1000-1200
+Bombus soroeensis,Buddleia davidii,24/8/2005,P191,Survey2005-06,1000,1000,1000-1200
+Bombus hortorum,Ballota foetida,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Ballota foetida,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Echium vulgare,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Brunella vulgaris,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Teucrium scorodonia,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Cirsium monspessulanum,9/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Cirsium monspessulanum,29/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Centaurea scabiosa,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Carlina vulgaris,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Centaurea nigra,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Picris hieracioides,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Sedum albescens,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Echium vulgare,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Verbascum  nigrum,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Galeopsis ladanum,26/8/1889,,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Betonica officinalis,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Brunella grandiflora,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Brunella grandiflora,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Teucrium scorodonia,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Teucrium scorodonia,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Cirsium monspessulanum,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Cirsium monspessulanum,9/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Trifolium pratense,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Verbascum  nigrum,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Thymus serpyllum,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Carlina vulgaris,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Malva moschata,7/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus wurflenii,Verbena officinalis,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus wurflenii,Brunella vulgaris,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus mesomelas,Echium vulgare,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus mesomelas,Satureja montana,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus mesomelas,Scabiosa columbaria,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus mesomelas,Centaurea nigra,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Echium vulgare,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Satureja montana,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Centaurea nigra,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Centaurea scabiosa,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Silene inflata,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Clematis vitalba,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Papaver rhaeas,10/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Tilia sylvestris,7/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Sedum telephium,31/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Merendera bulbocodium,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Merendera bulbocodium,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Echium vulgare,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Origanum vulgare,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Lappa minor,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Trifolium repens,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Lathyrus pyrenaicus?,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus hortorum,Knautia arvensis,29/8/1889,Gedre,Survey1889,1050,1050,1000-1200
+Bombus terrestris complex,Cirsium monspessulanum,29/8/1889,Gedre,Survey1889,1050,1050,1000-1200
+Bombus pascuorum,Calamintha alpina,28/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Clinopodium vulgare,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Clinopodium vulgare,11/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Clinopodium vulgare,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Ballota foetida,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Clinopodium vulgare,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus wurflenii,Clinopodium vulgare,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Ballota foetida,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Teucrium pyrenaicum,7/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Scabiosa columbaria,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Carduus defloratus,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Thymus serpyllum,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Teucrium chamaedrys,11/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Lotus corniculatus,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus sichelii,Scabiosa columbaria,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Cirsium lanceolatum,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Carduus defloratus,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Centaurea scabiosa,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Allium lusitanicum,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Verbena officinalis,28/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Satureja montana,26/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Cirsium arvense,12/8/1889,Gedre (op akkerland),Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Crepis sp.,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Trifolium repens,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Lotus corniculatus,8/8/1889,,Survey1889,1100,1100,1000-1200
+Bombus wurflenii,Trifolium pratense,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus wurflenii,Trifolium pratense,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus wurflenii,Lathyrus pyrenaicus?,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus mucidus,Brunella alba,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus mesomelas,Verbena officinalis,28/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus mesomelas,Trifolium pratense,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus ruderarius,Brunella alba,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus soroeensis,Origanum vulgare,26/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Verbena officinalis,28/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Thymus serpyllum,6/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Stachys recta,26/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Marrubium vulgare,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Brunella vulgaris,11/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rotundifolia,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rotundifolia,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rotundifolia,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Verbena officinalis,28/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Stachys recta,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Sideritis hyssopifolia,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Campanula rapunculoides,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus bohemicus,Cirsium monspessulanum,22/8/2005,P156,Survey2005-06,1105,1105,1000-1200
+Bombus lapidarius,Cirsium monspessulanum,22/8/2005,P156,Survey2005-06,1105,1105,1000-1200
+Bombus quadricolor,Cirsium monspessulanum,22/8/2005,P156,Survey2005-06,1105,1105,1000-1200
+Bombus pascuorum,Cirsium monspessulanum,22/8/2005,P156,Survey2005-06,1105,1105,1000-1200
+Bombus soroeensis,Cirsium monspessulanum,22/8/2005,P156,Survey2005-06,1105,1105,1000-1200
+Bombus bohemicus,Cirsium monspessulanum,22/8/2005,P157,Survey2005-06,1105,1105,1000-1200
+Bombus quadricolor,Cirsium monspessulanum,22/8/2005,P157,Survey2005-06,1105,1105,1000-1200
+Bombus quadricolor,Cirsium monspessulanum,22/8/2005,P157,Survey2005-06,1105,1105,1000-1200
+Bombus quadricolor,Cirsium monspessulanum,22/8/2005,P157,Survey2005-06,1105,1105,1000-1200
+Bombus pascuorum,Centaurea nigra,21/8/2006,P300,Survey2005-06,1109,1109,1000-1200
+Bombus soroeensis,Centaurea nigra,21/8/2006,P300,Survey2005-06,1109,1109,1000-1200
+Bombus quadricolor,Centaurea nigra,21/8/2006,P300,Survey2005-06,1109,1109,1000-1200
+Bombus quadricolor,Cirsium monspessulanum,21/8/2006,P302,Survey2005-06,1109,1109,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P153x,Survey2005-06,1110,1110,1000-1200
+Bombus lapidarius,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus pascuorum,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus soroeensis,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus soroeensis,Centaurea nigra,22/8/2005,P161,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus quadricolor,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus pascuorum,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus pascuorum,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus soroeensis,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus soroeensis,Centaurea nigra,22/8/2005,P162,Survey2005-06,1113,1113,1000-1200
+Bombus hortorum,Galeopsis ladanum,22/8/2005,P151,Survey2005-06,1116,1116,1000-1200
+Bombus hortorum,Galeopsis ladanum,22/8/2005,P151,Survey2005-06,1116,1116,1000-1200
+Bombus terrestris complex,Galeopsis ladanum,22/8/2005,P151x,Survey2005-06,1116,1116,1000-1200
+Bombus hortorum,Galeopsis ladanum,22/8/2005,P151x,Survey2005-06,1116,1116,1000-1200
+Bombus hortorum,Galeopsis ladanum,22/8/2005,P151x,Survey2005-06,1116,1116,1000-1200
+Bombus quadricolor,Picris hieracioides,21/8/2006,P303,Survey2005-06,1120,1120,1000-1200
+Bombus pascuorum,Picris hieracioides,21/8/2006,P303,Survey2005-06,1120,1120,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P148,Survey2005-06,1123,1123,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P148x,Survey2005-06,1123,1123,1000-1200
+Bombus hortorum,Galeopsis ladanum,19/8/2006,P266,Survey2005-06,1123,1123,1000-1200
+Bombus humilis,Centaurea nigra,19/8/2005,P132,Survey2005-06,1144,1144,1000-1200
+Bombus pascuorum,Centaurea nigra,19/8/2005,P132,Survey2005-06,1144,1144,1000-1200
+Bombus soroeensis,Centaurea nigra,19/8/2005,P132,Survey2005-06,1144,1144,1000-1200
+Bombus soroeensis,Cirsium vulgare,19/8/2005,P133,Survey2005-06,1144,1144,1000-1200
+Bombus soroeensis,Satureja montana,19/8/2006,P260,Survey2005-06,1144,1144,1000-1200
+Bombus soroeensis,Satureja montana,19/8/2006,P261,Survey2005-06,1144,1144,1000-1200
+Bombus pascuorum,Satureja montana,19/8/2006,P261,Survey2005-06,1144,1144,1000-1200
+Bombus pascuorum,Teucrium chamaedrys,26/8/1889,Gedre,Survey1889,1150,1150,1000-1200
+Bombus pascuorum,Centaurea nigra,19/8/2005,P137x,Survey2005-06,1150,1150,1000-1200
+Bombus pascuorum,Centaurea nigra,19/8/2005,P140,Survey2005-06,1155,1155,1000-1200
+Bombus soroeensis,Centaurea nigra,19/8/2005,P140,Survey2005-06,1155,1155,1000-1200
+Bombus soroeensis,Cirsium monspessulanum,18/8/2006,P249,Survey2005-06,1172,1172,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P164,Survey2005-06,1176,1176,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P164,Survey2005-06,1176,1176,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P164,Survey2005-06,1176,1176,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P164,Survey2005-06,1176,1176,1000-1200
+Bombus mesomelas,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus pascuorum,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus hortorum,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus hortorum,Cirsium vulgare,22/8/2005,P166,Survey2005-06,1176,1176,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus quadricolor,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus bohemicus,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus humilis,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus hortorum,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus soroeensis,Cirsium vulgare,22/8/2005,P165,Survey2005-06,1179,1179,1000-1200
+Bombus pascuorum,Rubus fruticosus,22/8/2005,P163,Survey2005-06,1180,1180,1000-1200
+Bombus pascuorum,Rubus fruticosus,22/8/2005,P163,Survey2005-06,1180,1180,1000-1200
+Bombus pascuorum,Rubus fruticosus,22/8/2005,P163,Survey2005-06,1180,1180,1000-1200
+Bombus humilis,Origanum vulgare,21/8/2006,P305,Survey2005-06,1180,1180,1000-1200
+Bombus pascuorum,Origanum vulgare,21/8/2006,P305,Survey2005-06,1180,1180,1000-1200
+Bombus soroeensis,Origanum vulgare,21/8/2006,P305,Survey2005-06,1180,1180,1000-1200
+Bombus quadricolor,Origanum vulgare,21/8/2006,P305,Survey2005-06,1180,1180,1000-1200
+Bombus pascuorum,Origanum vulgare,21/8/2006,P305,Survey2005-06,1180,1180,1000-1200
+Bombus humilis,Asteracaea senecio?,21/8/2006,P306,Survey2005-06,1185,1185,1000-1200
+Bombus quadricolor,Asteracaea senecio?,21/8/2006,P306,Survey2005-06,1185,1185,1000-1200
+Bombus pascuorum,Picris hieracioides,31/8/2006,P455,Survey2005-06,1193,1193,1000-1200
+Bombus pascuorum,buddleia ,31/8/2006,P457,Survey2005-06,1193,1193,1000-1200
+Bombus lapidarius,Crepis sp.,19/8/2005,P141,Survey2005-06,1194,1194,1000-1200
+Bombus bohemicus,Crepis sp.,19/8/2005,P142,Survey2005-06,1194,1194,1000-1200
+Bombus soroeensis,Crepis sp.,19/8/2005,P142,Survey2005-06,1194,1194,1000-1200
+Bombus soroeensis,Crepis sp.,19/8/2005,P142,Survey2005-06,1194,1194,1000-1200
+Bombus pascuorum,Verbena officinalis,19/8/2005,P143,Survey2005-06,1198,1198,1000-1200
+Bombus quadricolor,Crepis sp.,19/8/2005,P144x,Survey2005-06,1198,1198,1000-1200
+Bombus soroeensis,Crepis sp.,19/8/2005,P144x,Survey2005-06,1198,1198,1000-1200
+Bombus pascuorum,Carlina acaulis,26/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus pascuorum,Polygala vulgaris,28/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus sichelii,Carduus defloratus,6/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus hortorum,Cirsium eriophorum,24/8/1889,tussen Gedre en Gavarnie,Survey1889,1200,1200,1200-1400
+Bombus hortorum,Cirsium acaule,24/8/1889,tussen Gedre en Gavarnie,Survey1889,1200,1200,1200-1400
+Bombus lapidarius,Allium lusitanicum,7/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus wurflenii,Brunella grandiflora,7/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus wurflenii,Carlina acanthifolia,28/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus mesomelas,Cirsium monspessulanum,7/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus pratorum,Origanum vulgare,10/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus ruderarius,Centaurea scabiosa,6/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Mentha longifolia,10/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Carduus defloratus,6/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Hypericum perforatum,28/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus humilis,Rubus fruticosus,7/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus soroeensis,Origanum vulgare,19/8/2005,P145,Survey2005-06,1226,1226,1200-1400
+Bombus bohemicus,Origanum vulgare,19/8/2005,P145x,Survey2005-06,1226,1226,1200-1400
+Bombus terrestris complex,Hypericum perforatum,16/8/2005,P128,Survey2005-06,1244,1244,1200-1400
+Bombus soroeensis,Hypericum perforatum,16/8/2005,P128,Survey2005-06,1244,1244,1200-1400
+Bombus bohemicus,Eupatorium cannabinum,16/8/2005,P124,Survey2005-06,1271,1271,1200-1400
+Bombus bohemicus,Eupatorium cannabinum,16/8/2005,P124,Survey2005-06,1271,1271,1200-1400
+Bombus sylvestris,Eupatorium cannabinum,16/8/2005,P124,Survey2005-06,1271,1271,1200-1400
+Bombus quadricolor,Eupatorium cannabinum,16/8/2005,P124,Survey2005-06,1271,1271,1200-1400
+Bombus terrestris complex,Eupatorium cannabinum,16/8/2005,P124,Survey2005-06,1271,1271,1200-1400
+Bombus mesomelas,Carduus defloratus,6/8/1889,Gedre,Survey1889,1300,1300,1200-1400
+Bombus quadricolor,Carduus defloratus,6/8/1889,Gedre,Survey1889,1300,1300,1200-1400
+Bombus bohemicus,Scabiosa columbaria,16/8/2005,P123,Survey2005-06,1363,1363,1200-1400
+Bombus pascuorum,Scabiosa columbaria,16/8/2005,P123,Survey2005-06,1363,1363,1200-1400
+Bombus bohemicus,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus bohemicus,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus bohemicus,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus bohemicus,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus quadricolor,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus pascuorum,Scabiosa columbaria,16/8/2005,P131,Survey2005-06,1363,1363,1200-1400
+Bombus quadricolor,Scabiosa columbaria,16/8/2005,P131x,Survey2005-06,1363,1363,1200-1400
+Bombus humilis,Centaurea nigra,21/8/2006,P286,Survey2005-06,1363,1363,1200-1400
+Bombus pascuorum,Scabiosa columbaria,21/8/2006,P287,Survey2005-06,1363,1363,1200-1400
+Bombus pascuorum,Scabiosa columbaria,21/8/2006,P287,Survey2005-06,1363,1363,1200-1400
+Bombus lapidarius,Centaurea nigra,21/8/2006,P288,Survey2005-06,1363,1363,1200-1400
+Bombus lapidarius,Centaurea nigra,21/8/2006,P288,Survey2005-06,1363,1363,1200-1400
+Bombus hortorum,Centaurea nigra,21/8/2006,P288,Survey2005-06,1363,1363,1200-1400
+Bombus soroeensis,Centaurea nigra,21/8/2006,P288,Survey2005-06,1363,1363,1200-1400
+Bombus soroeensis,Scabiosa columbaria,21/8/2006,P291,Survey2005-06,1363,1363,1200-1400
+Bombus soroeensis,Scabiosa columbaria,21/8/2006,P291,Survey2005-06,1363,1363,1200-1400
+Bombus lapidarius,Trifolium repens,10/8/1889,Saugu�,Survey1889,1400,1400,1400-1600
+Bombus terrestris complex,Carduus defloratus,10/8/1889,Saugue,Survey1889,1400,1400,1400-1600
+Bombus bohemicus,Mentha longifolia,24/8/2005,P202,Survey2005-06,1406,1406,1400-1600
+Bombus mesomelas,Aconitum sp.,25/8/2005,P203,Survey2005-06,1406,1406,1400-1600
+Bombus hortorum,Aconitum sp.,25/8/2005,P203,Survey2005-06,1406,1406,1400-1600
+Bombus hortorum,Aconitum sp.,25/8/2005,P203,Survey2005-06,1406,1406,1400-1600
+Bombus hortorum,Aconitum sp.,25/8/2005,P203,Survey2005-06,1406,1406,1400-1600
+Bombus hortorum,Aconitum sp.,25/8/2005,P203,Survey2005-06,1406,1406,1400-1600
+Bombus quadricolor,Mentha longifolia,24/8/2005,P204,Survey2005-06,1406,1406,1400-1600
+Bombus lapidarius,Mentha longifolia,24/8/2005,P204,Survey2005-06,1406,1406,1400-1600
+Bombus hortorum,Mentha longifolia,24/8/2005,P204,Survey2005-06,1406,1406,1400-1600
+Bombus bohemicus,Mentha longifolia,24/8/2005,P204,Survey2005-06,1406,1406,1400-1600
+Bombus pascuorum,Cirsium vulgare,28/8/2006,P405,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P405,Survey2005-06,1455,1455,1400-1600
+Bombus lapidarius,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus pascuorum,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus soroeensis,Cirsium vulgare,28/8/2006,P406,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Origanum vulgare,28/8/2006,P408,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P409,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P409,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P410,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P410,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P410,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P411,Survey2005-06,1455,1455,1400-1600
+Bombus pascuorum,Satureja montana,28/8/2006,P411,Survey2005-06,1455,1455,1400-1600
+Bombus terrestris complex,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus lapidarius,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus lapidarius,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus lapidarius,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus pascuorum,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus soroeensis,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus soroeensis,Cirsium vulgare,28/8/2006,P412,Survey2005-06,1455,1455,1400-1600
+Bombus soroeensis,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus humilis,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus lapidarius,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus rupestris,Cirsium vulgare,28/8/2006,P413,Survey2005-06,1455,1455,1400-1600
+Bombus mesomelas,Centaurea scabiosa,21/8/2006,P294,Survey2005-06,1460,1460,1400-1600
+Bombus soroeensis,Succisa pratensis,21/8/2006,P297,Survey2005-06,1460,1460,1400-1600
+Bombus soroeensis,Succisa pratensis,21/8/2006,P297,Survey2005-06,1460,1460,1400-1600
+Bombus soroeensis,Angelica sylvestris,21/8/2006,P298,Survey2005-06,1460,1460,1400-1600
+Bombus sichelii,Centaurea scabiosa,21/8/2006,P299,Survey2005-06,1460,1460,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P398,Survey2005-06,1471,1471,1400-1600
+Bombus terrestris complex,Satureja montana,28/8/2006,P399,Survey2005-06,1471,1471,1400-1600
+Bombus terrestris complex,Satureja montana,28/8/2006,P399,Survey2005-06,1471,1471,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P399,Survey2005-06,1471,1471,1400-1600
+Bombus soroeensis,Satureja montana,28/8/2006,P399,Survey2005-06,1471,1471,1400-1600
+Bombus humilis,Satureja montana,28/8/2006,P402,Survey2005-06,1471,1471,1400-1600
+Bombus lapidarius,Satureja montana,28/8/2006,P402,Survey2005-06,1471,1471,1400-1600
+Bombus sichelii,Verbascum  nigrum,27/8/1889,H�as,Survey1889,1480,1480,1400-1600
+Bombus humilis,Centaurea scabiosa,12/8/2005,P045,Survey2005-06,1485,1485,1400-1600
+Bombus humilis,Centaurea scabiosa,12/8/2005,P054,Survey2005-06,1485,1485,1400-1600
+Bombus pascuorum,Centaurea scabiosa,12/8/2005,P054,Survey2005-06,1485,1485,1400-1600
+Bombus humilis,Centaurea scabiosa,12/8/2005,P054,Survey2005-06,1485,1485,1400-1600
+Bombus soroeensis,Centaurea scabiosa,12/8/2005,P054,Survey2005-06,1485,1485,1400-1600
+Bombus soroeensis,Centaurea scabiosa,12/8/2005,P054,Survey2005-06,1485,1485,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P090,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P090,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P090,Survey2005-06,1491,1491,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P090,Survey2005-06,1491,1491,1400-1600
+Bombus wurflenii,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus wurflenii,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus wurflenii,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus pascuorum,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus humilis,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus humilis,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus humilis,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P095,Survey2005-06,1491,1491,1400-1600
+Bombus wurflenii,Centaurea scabiosa,14/8/2005,P101,Survey2005-06,1491,1491,1400-1600
+Bombus pyrenaeus,Centaurea scabiosa,14/8/2005,P101,Survey2005-06,1491,1491,1400-1600
+Bombus wurflenii,Centaurea scabiosa,14/8/2005,P101,Survey2005-06,1491,1491,1400-1600
+Bombus lapidarius,Centaurea scabiosa,14/8/2005,P102,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P102,Survey2005-06,1491,1491,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P102,Survey2005-06,1491,1491,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P102,Survey2005-06,1491,1491,1400-1600
+Bombus bohemicus,Centaurea scabiosa,14/8/2005,P105,Survey2005-06,1491,1491,1400-1600
+Bombus sichelii,Angelica sylvestris,14/8/2005,P096,Survey2005-06,1493,1493,1400-1600
+Bombus humilis,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus mesomelas,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus soroeensis,Centaurea scabiosa,14/8/2005,P097,Survey2005-06,1493,1493,1400-1600
+Bombus soroeensis,Mentha longifolia,14/8/2005,P098,Survey2005-06,1493,1493,1400-1600
+Bombus sichelii,Mentha longifolia,14/8/2005,P099,Survey2005-06,1493,1493,1400-1600
+Bombus terrestris complex,Angelica sylvestris,14/8/2005,P100,Survey2005-06,1493,1493,1400-1600
+Bombus wurflenii,Succisa pratensis,14/8/2005,P085,Survey2005-06,1495,1495,1400-1600
+Bombus ruderarius,Succisa pratensis,14/8/2005,P085,Survey2005-06,1495,1495,1400-1600
+Bombus mesomelas,Succisa pratensis,14/8/2005,P086,Survey2005-06,1495,1495,1400-1600
+Bombus sylvarum,Succisa pratensis,14/8/2005,P086,Survey2005-06,1495,1495,1400-1600
+Bombus sylvarum,Succisa pratensis,14/8/2005,P103,Survey2005-06,1495,1495,1400-1600
+Bombus soroeensis,Succisa pratensis,14/8/2005,P103,Survey2005-06,1495,1495,1400-1600
+Bombus pascuorum,Succisa pratensis,14/8/2005,P104,Survey2005-06,1495,1495,1400-1600
+Bombus pascuorum,Succisa pratensis,14/8/2005,P104,Survey2005-06,1495,1495,1400-1600
+Bombus sichelii,Allium lusitanicum,12/8/2005,P053,Survey2005-06,1497,1497,1400-1600
+Bombus pascuorum,Centaurea nigra,13/8/2005,P083,Survey2005-06,1498,1498,1400-1600
+Bombus mesomelas,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus soroeensis,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus mesomelas,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus mesomelas,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus soroeensis,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus terrestris complex,Centaurea nigra,13/8/2005,P084,Survey2005-06,1498,1498,1400-1600
+Bombus terrestris complex,Seseli libanotis,14/8/2005,P091,Survey2005-06,1498,1498,1400-1600
+Bombus soroeensis,Centaurea scabiosa,20/8/2006,P280,Survey2005-06,1498,1498,1400-1600
+Bombus soroeensis,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus pascuorum,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus rupestris,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus wurflenii,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus humilis,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus pascuorum,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus pascuorum,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus pascuorum,Centaurea scabiosa,13/8/2005,P082,Survey2005-06,1500,1500,1400-1600
+Bombus humilis,Centaurea scabiosa,20/8/2006,P281,Survey2005-06,1510,1510,1400-1600
+Bombus quadricolor,Centaurea scabiosa,20/8/2006,P281,Survey2005-06,1510,1510,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P282,Survey2005-06,1510,1510,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P282,Survey2005-06,1510,1510,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P283,Survey2005-06,1510,1510,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P283,Survey2005-06,1510,1510,1400-1600
+Bombus humilis,Centaurea nigra,20/8/2006,P284,Survey2005-06,1510,1510,1400-1600
+Bombus quadricolor,Centaurea nigra,20/8/2006,P284,Survey2005-06,1510,1510,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P284,Survey2005-06,1510,1510,1400-1600
+Bombus pascuorum,Centaurea nigra,20/8/2006,P284,Survey2005-06,1510,1510,1400-1600
+Bombus bohemicus,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus bohemicus,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus lapidarius,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus pascuorum,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus mesomelas,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus mesomelas,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus mesomelas,Centaurea scabiosa,12/8/2005,P046,Survey2005-06,1515,1515,1400-1600
+Bombus mesomelas,Centaurea scabiosa,12/8/2005,P047,Survey2005-06,1515,1515,1400-1600
+Bombus soroeensis,Centaurea scabiosa,12/8/2005,P047,Survey2005-06,1515,1515,1400-1600
+Bombus lapidarius,Centaurea scabiosa,12/8/2005,P048,Survey2005-06,1515,1515,1400-1600
+Bombus lapidarius,Centaurea scabiosa,12/8/2005,P048,Survey2005-06,1515,1515,1400-1600
+Bombus sichelii,Centaurea scabiosa,12/8/2005,P048,Survey2005-06,1515,1515,1400-1600
+Bombus sichelii,Cirsium eriophorum,20/8/2006,P273,Survey2005-06,1519,1519,1400-1600
+Bombus soroeensis,Cirsium eriophorum,20/8/2006,P273,Survey2005-06,1519,1519,1400-1600
+Bombus humilis,Cirsium eriophorum,20/8/2006,P276,Survey2005-06,1520,1520,1400-1600
+Bombus lapidarius,Cirsium eriophorum,20/8/2006,P276,Survey2005-06,1520,1520,1400-1600
+Bombus pascuorum,Cirsium eriophorum,20/8/2006,P276,Survey2005-06,1520,1520,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P277,Survey2005-06,1520,1520,1400-1600
+Bombus soroeensis,Centaurea nigra,20/8/2006,P277,Survey2005-06,1520,1520,1400-1600
+Bombus humilis,Centaurea nigra,13/8/2005,P069,Survey2005-06,1521,1521,1400-1600
+Bombus mesomelas,Centaurea nigra,13/8/2005,P069,Survey2005-06,1521,1521,1400-1600
+Bombus soroeensis,Centaurea nigra,13/8/2005,P069,Survey2005-06,1521,1521,1400-1600
+Bombus wurflenii,Aconitum sp.,13/8/2005,P065,Survey2005-06,1528,1528,1400-1600
+Bombus wurflenii,Aconitum sp.,13/8/2005,P065,Survey2005-06,1528,1528,1400-1600
+Bombus hortorum,Aconitum sp.,13/8/2005,P065,Survey2005-06,1528,1528,1400-1600
+Bombus humilis,Origanum vulgare,10/8/2005,P041,Survey2005-06,1535,1535,1400-1600
+Bombus humilis,Origanum vulgare,10/8/2005,P039,Survey2005-06,1536,1536,1400-1600
+Bombus ruderarius,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus humilis,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus pascuorum,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus sichelii,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus ruderarius,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus mesomelas,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus mesomelas,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus soroeensis,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus soroeensis,Origanum vulgare,10/8/2005,P040,Survey2005-06,1536,1536,1400-1600
+Bombus sichelii,Cirsium eriophorum,23/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus sichelii,Eryngium bourgati,10/8/1889,Saugu�,Survey1889,1550,1550,1400-1600
+Bombus sichelii,Trifolium repens,22/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus sichelii,Lotus corniculatus,22/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus hortorum,Iris pyrenaica,16/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus hortorum,Cirsium eriophorum,22/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus wurflenii,Cirsium eriophorum,22/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus wurflenii,Cirsium eriophorum,23/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus ruderarius,Cirsium eriophorum,22/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus soroeensis,Cirsium eriophorum,17/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus terrestris complex,Eryngium bourgati,10/8/1889,Saugu�,Survey1889,1550,1550,1400-1600
+Bombus terrestris complex,Parnassia palustris,9/8/2005,P024,Survey2005-06,1550,1550,1400-1600
+Bombus bohemicus,Cirsium arvense,9/8/2005,P025,Survey2005-06,1550,1550,1400-1600
+Bombus hortorum,Cirsium arvense,9/8/2005,P026,Survey2005-06,1550,1550,1400-1600
+Bombus bohemicus,Parnassia palustris,9/8/2005,P027,Survey2005-06,1553,1553,1400-1600
+Bombus bohemicus,Origanum vulgare,10/8/2005,P044,Survey2005-06,1557,1557,1400-1600
+Bombus lapidarius,Origanum vulgare,10/8/2005,P044,Survey2005-06,1557,1557,1400-1600
+Bombus lapidarius,Origanum vulgare,10/8/2005,P044,Survey2005-06,1557,1557,1400-1600
+Bombus mesomelas,Origanum vulgare,10/8/2005,P044,Survey2005-06,1557,1557,1400-1600
+Bombus pascuorum,Crepis sp.,10/8/2005,P028,Survey2005-06,1558,1558,1400-1600
+Bombus sichelii,Mentha longifolia,9/8/2005,P020,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Mentha longifolia,9/8/2005,P021,Survey2005-06,1560,1560,1400-1600
+Bombus soroeensis,Angelica sylvestris,10/8/2005,P029,Survey2005-06,1560,1560,1400-1600
+Bombus mesomelas,Angelica sylvestris,10/8/2005,P029,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Angelica sylvestris,10/8/2005,P030,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P031,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P031,Survey2005-06,1560,1560,1400-1600
+Bombus mesomelas,Hypericum perforatum,10/8/2005,P031,Survey2005-06,1560,1560,1400-1600
+Bombus lapidarius,Hypericum perforatum,10/8/2005,P032,Survey2005-06,1560,1560,1400-1600
+Bombus humilis,Hypericum perforatum,10/8/2005,P032,Survey2005-06,1560,1560,1400-1600
+Bombus pascuorum,Hypericum perforatum,10/8/2005,P032,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P032,Survey2005-06,1560,1560,1400-1600
+Bombus mesomelas,Mentha longifolia,10/8/2005,P033,Survey2005-06,1560,1560,1400-1600
+Bombus lapidarius,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus mesomelas,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus soroeensis,Mentha longifolia,10/8/2005,P034,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus lapidarius,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P037,Survey2005-06,1560,1560,1400-1600
+Bombus lapidarius,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus humilis,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus sichelii,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus mesomelas,Hypericum perforatum,10/8/2005,P038,Survey2005-06,1560,1560,1400-1600
+Bombus lapidarius,Hypericum perforatum,31/8/2006,P450,Survey2005-06,1566,1566,1400-1600
+Bombus sichelii,Hypericum perforatum,25/8/2005,P208,Survey2005-06,1568,1568,1400-1600
+Bombus sichelii,Hypericum perforatum,25/8/2005,P208,Survey2005-06,1568,1568,1400-1600
+Bombus sichelii,Hypericum perforatum,25/8/2005,P208,Survey2005-06,1568,1568,1400-1600
+Bombus sichelii,Hypericum perforatum,25/8/2005,P208,Survey2005-06,1568,1568,1400-1600
+Bombus terrestris complex,Hypericum perforatum,25/8/2005,P208,Survey2005-06,1568,1568,1400-1600
+Bombus mesomelas,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus terrestris complex,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus mesomelas,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus mesomelas,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus mesomelas,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus mesomelas,Cirsium vulgare,25/8/2005,P209,Survey2005-06,1568,1568,1400-1600
+Bombus wurflenii,Hypericum perforatum,25/8/2005,P206,Survey2005-06,1570,1570,1400-1600
+Bombus sichelii,Origanum vulgare,31/8/2006,P434,Survey2005-06,1576,1576,1400-1600
+Bombus lapidarius,Centaurea nigra,31/8/2006,P435,Survey2005-06,1576,1576,1400-1600
+Bombus pascuorum,Centaurea nigra,31/8/2006,P435,Survey2005-06,1576,1576,1400-1600
+Bombus mesomelas,Centaurea nigra,31/8/2006,P435,Survey2005-06,1576,1576,1400-1600
+Bombus wurflenii,Centaurea nigra,31/8/2006,P435,Survey2005-06,1576,1576,1400-1600
+Bombus lapidarius,Centaurea nigra,16/8/2005,P119,Survey2005-06,1594,1594,1400-1600
+Bombus pascuorum,Centaurea nigra,16/8/2005,P119,Survey2005-06,1594,1594,1400-1600
+Bombus mesomelas,Centaurea nigra,16/8/2005,P119,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Centaurea nigra,16/8/2005,P119,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Centaurea nigra,16/8/2005,P119,Survey2005-06,1594,1594,1400-1600
+Bombus lapidarius,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus lapidarius,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus sichelii,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus mesomelas,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Centaurea nigra,16/8/2005,P120,Survey2005-06,1594,1594,1400-1600
+Bombus lapidarius,Centaurea nigra,16/8/2005,P120x,Survey2005-06,1594,1594,1400-1600
+Bombus sichelii,Calluna vulgaris,16/8/2005,P121,Survey2005-06,1594,1594,1400-1600
+Bombus terrestris complex,Calluna vulgaris,16/8/2005,P121,Survey2005-06,1594,1594,1400-1600
+Bombus soroeensis,Calluna vulgaris,16/8/2005,P121,Survey2005-06,1594,1594,1400-1600
+Bombus sichelii,Stachys sylvatica,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus gerstaeckeri,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Galeopsis tetrahit,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Galeopsis tetrahit,23/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Aconitum sp.,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Aconitum sp.,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Aconitum sp.,22/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus mesomelas,Brunella vulgaris,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus mesomelas,Lotus corniculatus,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus soroeensis,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus soroeensis,Carduus defloratus,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus humilis,Cirsium acaule,18/8/1889,Port de Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus lapidarius,Succisa pratensis,31/8/2006,P420,Survey2005-06,1600,1600,1600-1800
+Bombus soroeensis,Succisa pratensis,31/8/2006,P420,Survey2005-06,1600,1600,1600-1800
+Bombus lapidarius,Centaurea nigra,31/8/2006,P428,Survey2005-06,1600,1600,1600-1800
+Bombus mesomelas,Centaurea nigra,31/8/2006,P428,Survey2005-06,1600,1600,1600-1800
+Bombus lapidarius,Eryngium bourgati,9/8/2005,P016,Survey2005-06,1610,1610,1600-1800
+Bombus soroeensis,Eryngium bourgati,9/8/2005,P016,Survey2005-06,1610,1610,1600-1800
+Bombus soroeensis,Eryngium bourgati,9/8/2005,P016,Survey2005-06,1610,1610,1600-1800
+Bombus soroeensis,Eryngium bourgati,9/8/2005,P016,Survey2005-06,1610,1610,1600-1800
+Bombus pascuorum,Eryngium bourgati,9/8/2005,P017,Survey2005-06,1610,1610,1600-1800
+Bombus soroeensis,Eryngium bourgati,9/8/2005,P017,Survey2005-06,1610,1610,1600-1800
+Bombus hortorum,Aconitum sp.,31/8/2006,P414,Survey2005-06,1611,1611,1600-1800
+Bombus lapidarius,Succisa pratensis,31/8/2006,P416,Survey2005-06,1611,1611,1600-1800
+Bombus mesomelas,Euphrasia ,31/8/2006,P417,Survey2005-06,1611,1611,1600-1800
+Bombus ruderarius,Succisa pratensis,31/8/2006,P419,Survey2005-06,1611,1611,1600-1800
+Bombus soroeensis,Succisa pratensis,31/8/2006,P419,Survey2005-06,1611,1611,1600-1800
+Bombus ruderarius,Succisa pratensis,9/8/2005,P015,Survey2005-06,1613,1613,1600-1800
+Bombus soroeensis,Succisa pratensis,9/8/2005,P015,Survey2005-06,1613,1613,1600-1800
+Bombus pascuorum,Centaurea nigra,16/8/2005,P113,Survey2005-06,1616,1616,1600-1800
+Bombus mesomelas,Centaurea nigra,16/8/2005,P113x,Survey2005-06,1616,1616,1600-1800
+Bombus pascuorum,Calluna vulgaris,9/8/2005,P012,Survey2005-06,1617,1617,1600-1800
+Bombus mesomelas,Calluna vulgaris,9/8/2005,P012,Survey2005-06,1617,1617,1600-1800
+Bombus lapidarius,Calluna vulgaris,9/8/2005,P013,Survey2005-06,1617,1617,1600-1800
+Bombus mesomelas,Calluna vulgaris,9/8/2005,P013,Survey2005-06,1617,1617,1600-1800
+Bombus soroeensis,Scabiosa columbaria,22/8/2006,P321,Survey2005-06,1618,1618,1600-1800
+Bombus wurflenii,Centaurea nigra,16/8/2005,P116,Survey2005-06,1619,1619,1600-1800
+Bombus humilis,Centaurea nigra,16/8/2005,P116,Survey2005-06,1619,1619,1600-1800
+Bombus mesomelas,Centaurea nigra,16/8/2005,P116,Survey2005-06,1619,1619,1600-1800
+Bombus soroeensis,Centaurea nigra,16/8/2005,P116,Survey2005-06,1619,1619,1600-1800
+Bombus soroeensis,Succisa pratensis,22/8/2006,P322,Survey2005-06,1622,1622,1600-1800
+Bombus sichelii,Succisa pratensis,22/8/2006,P322,Survey2005-06,1622,1622,1600-1800
+Bombus soroeensis,Succisa pratensis,22/8/2006,P323,Survey2005-06,1622,1622,1600-1800
+Bombus soroeensis,Succisa pratensis,22/8/2006,P323,Survey2005-06,1622,1622,1600-1800
+Bombus quadricolor,Succisa pratensis,22/8/2006,P323,Survey2005-06,1622,1622,1600-1800
+Bombus lapidarius,Succisa pratensis,22/8/2006,P323,Survey2005-06,1622,1622,1600-1800
+Bombus lapidarius,Centaurea nigra,8/8/2005,P001,Survey2005-06,1623,1623,1600-1800
+Bombus lapidarius,Centaurea nigra,8/8/2005,P001,Survey2005-06,1623,1623,1600-1800
+Bombus humilis,Centaurea nigra,8/8/2005,P001,Survey2005-06,1623,1623,1600-1800
+Bombus pyrenaeus,Centaurea nigra,8/8/2005,P001,Survey2005-06,1623,1623,1600-1800
+Bombus hortorum,Centaurea nigra,8/8/2005,P001,Survey2005-06,1623,1623,1600-1800
+Bombus lapidarius,Centaurea nigra,8/8/2005,P002,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P003,Survey2005-06,1623,1623,1600-1800
+Bombus bohemicus,Allium lusitanicum,8/8/2005,P004,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P004,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P004,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P004,Survey2005-06,1623,1623,1600-1800
+Bombus sichelii,Allium lusitanicum,8/8/2005,P004,Survey2005-06,1623,1623,1600-1800
+Bombus quadricolor,Calluna vulgaris,8/8/2005,P005,Survey2005-06,1623,1623,1600-1800
+Bombus soroeensis,Calluna vulgaris,8/8/2005,P006,Survey2005-06,1623,1623,1600-1800
+Bombus lapidarius,Cirsium arvense,8/8/2005,P008,Survey2005-06,1623,1623,1600-1800
+Bombus lapidarius,Cirsium arvense,8/8/2005,P008,Survey2005-06,1623,1623,1600-1800
+Bombus hortorum,Cirsium arvense,8/8/2005,P008,Survey2005-06,1623,1623,1600-1800
+Bombus hortorum,Cirsium arvense,8/8/2005,P008,Survey2005-06,1623,1623,1600-1800
+Bombus soroeensis,Centaurea nigra,8/8/2005,P009,Survey2005-06,1623,1623,1600-1800
+Bombus terrestris complex,Succisa pratensis,16/8/2005,P109,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Succisa pratensis,16/8/2005,P109,Survey2005-06,1625,1625,1600-1800
+Bombus soroeensis,Succisa pratensis,16/8/2005,P109,Survey2005-06,1625,1625,1600-1800
+Bombus soroeensis,Succisa pratensis,16/8/2005,P110,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P384,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P384,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P384,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P384,Survey2005-06,1625,1625,1600-1800
+Bombus soroeensis,Cirsium eriophorum,27/8/2006,P384,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P385,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P385,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P387,Survey2005-06,1625,1625,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P387,Survey2005-06,1625,1625,1600-1800
+Bombus soroeensis,Centaurea nigra,22/8/2006,P324,Survey2005-06,1628,1628,1600-1800
+Bombus soroeensis,Centaurea nigra,22/8/2006,P324,Survey2005-06,1628,1628,1600-1800
+Bombus soroeensis,Cirsium arvense,22/8/2006,P325,Survey2005-06,1628,1628,1600-1800
+Bombus mesomelas,Cirsium arvense,22/8/2006,P326,Survey2005-06,1628,1628,1600-1800
+Bombus soroeensis,Cirsium arvense,22/8/2006,P326,Survey2005-06,1628,1628,1600-1800
+Bombus soroeensis,Centaurea nigra,22/8/2006,P327,Survey2005-06,1628,1628,1600-1800
+Bombus lapidarius,Centaurea nigra,22/8/2006,P327,Survey2005-06,1628,1628,1600-1800
+Bombus lapidarius,Centaurea nigra,9/8/2005,P010,Survey2005-06,1629,1629,1600-1800
+Bombus mesomelas,Hypericum pulchrum,22/8/2006,P318,Survey2005-06,1630,1630,1600-1800
+Bombus soroeensis,Achillea millefolium,22/8/2006,P310,Survey2005-06,1642,1642,1600-1800
+Bombus lapidarius,Succisa pratensis,22/8/2006,P313,Survey2005-06,1642,1642,1600-1800
+Bombus mesomelas,Cirsium eriophorum,28/8/2006,P390,Survey2005-06,1695,1695,1600-1800
+Bombus mesomelas,Cirsium eriophorum,28/8/2006,P391,Survey2005-06,1695,1695,1600-1800
+Bombus mesomelas,Cirsium eriophorum,28/8/2006,P393,Survey2005-06,1695,1695,1600-1800
+Bombus wurflenii,Aconitum sp.,13/8/2005,P080,Survey2005-06,1699,1699,1600-1800
+Bombus mesomelas,Onopordum acaulon,13/8/2005,P081,Survey2005-06,1699,1699,1600-1800
+Bombus humilis,Onopordum acaulon,13/8/2005,P081,Survey2005-06,1699,1699,1600-1800
+Bombus mesomelas,Onopordum acaulon,13/8/2005,P081,Survey2005-06,1699,1699,1600-1800
+Bombus mesomelas,Onopordum acaulon,13/8/2005,P081,Survey2005-06,1699,1699,1600-1800
+Bombus sichelii,Scrophularia alpestris,15/8/1889,Cirque de Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Sideritis hyssopifolia,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Brunella vulgaris,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Brunella vulgaris,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Teucrium pyrenaicum,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Carduus carlinoides,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Geranium cinereum,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Lotus corniculatus,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus hortorum,Teucrium pyrenaicum,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus hortorum,Scutellaria alpina,18/8/1889,Port de Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus lapidarius,Carduus carlinoides,18/8/1889,Port de Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus monticola,Sideritis hyssopifolia,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Rhinanthus minor,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Sideritis hyssopifolia,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Sideritis hyssopifolia,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Phyteuma orbiculare,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Lotus corniculatus,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus mendax,Teucrium pyrenaicum,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus pratorum,Knautia arvensis,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus soroeensis,Scrophularia alpestris,15/8/1889,Cirque de Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Sideritis hyssopifolia,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Knautia arvensis,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Scabiosa columbaria,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Carduus defloratus,18/8/1889,Port de Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Campanula rotundifolia,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Campanula rotundifolia,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus humilis,Knautia arvensis,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus humilis,Aconitum sp.,13/8/2005,P072,Survey2005-06,1707,1707,1600-1800
+Bombus mesomelas,Aconitum sp.,13/8/2005,P072,Survey2005-06,1707,1707,1600-1800
+Bombus mesomelas,Carduus defloratus,13/8/2005,P073,Survey2005-06,1707,1707,1600-1800
+Bombus sichelii,Carduus defloratus,23/8/2006,P344,Survey2005-06,1713,1713,1600-1800
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P346,Survey2005-06,1713,1713,1600-1800
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P347,Survey2005-06,1713,1713,1600-1800
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P347,Survey2005-06,1713,1713,1600-1800
+Bombus mesomelas,Aconitum sp.,23/8/2006,P353,Survey2005-06,1716,1716,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P200,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P200,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P200,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P200,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P200,Survey2005-06,1743,1743,1600-1800
+Bombus bohemicus,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Onopordum ,24/8/2005,P201,Survey2005-06,1743,1743,1600-1800
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P343,Survey2005-06,1744,1744,1600-1800
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P343,Survey2005-06,1744,1744,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P380,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P380,Survey2005-06,1747,1747,1600-1800
+Bombus lapidarius,Cirsium eriophorum,27/8/2006,P381,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P381,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P382,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P382,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P383,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P383,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P383,Survey2005-06,1747,1747,1600-1800
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P383,Survey2005-06,1747,1747,1600-1800
+Bombus sichelii,Carduus defloratus,18/8/1889,Port de Gavarnie,Survey1889,1800,1800,1800-2000
+Bombus hortorum,Cirsium glabrum,18/8/1889,"tussen Boucharol en den Port de Gavarnie, op de zuidelijke helling der pyreneeen",Survey1889,1800,1800,1800-2000
+Bombus terrestris complex,Carduus defloratus,18/8/1889,"tussen Boucharol en den Port de Gavarnie, op de zuidelijke helling der pyreneeen",Survey1889,1800,1800,1800-2000
+Bombus mesomelas,Carduus defloratus,12/8/2005,P061,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus defloratus,12/8/2005,P061,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus defloratus,12/8/2005,P061,Survey2005-06,1830,1830,1800-2000
+Bombus soroeensis,Carduus carlinoides,25/8/2005,P195,Survey2005-06,1830,1830,1800-2000
+Bombus soroeensis,Carduus carlinoides,25/8/2005,P195,Survey2005-06,1830,1830,1800-2000
+Bombus soroeensis,Carduus carlinoides,25/8/2005,P195,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus carlinoides,25/8/2005,P195,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus carlinoides,25/8/2005,P196,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus carlinoides,25/8/2005,P196,Survey2005-06,1830,1830,1800-2000
+Bombus mesomelas,Carduus carlinoides,25/8/2005,P196,Survey2005-06,1830,1830,1800-2000
+Bombus sichelii,Aconitum sp.,12/8/2005,P060,Survey2005-06,1833,1833,1800-2000
+Bombus wurflenii,Aconitum sp.,12/8/2005,P060,Survey2005-06,1833,1833,1800-2000
+Bombus wurflenii,Aconitum sp.,12/8/2005,P060,Survey2005-06,1833,1833,1800-2000
+Bombus wurflenii,Aconitum sp.,12/8/2005,P060,Survey2005-06,1833,1833,1800-2000
+Bombus wurflenii,Aconitum sp.,25/8/2005,P197,Survey2005-06,1839,1839,1800-2000
+Bombus wurflenii,Aconitum sp.,25/8/2005,P194,Survey2005-06,1840,1840,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P367,Survey2005-06,1843,1843,1800-2000
+Bombus sylvarum,Carduus defloratus,27/8/2006,P367,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P367,Survey2005-06,1843,1843,1800-2000
+Bombus soroeensis,Carduus defloratus,27/8/2006,P367,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P367,Survey2005-06,1843,1843,1800-2000
+Bombus ruderarius,Carduus defloratus,27/8/2006,P368,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P368,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P368,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Aconitum sp.,27/8/2006,P369,Survey2005-06,1843,1843,1800-2000
+Bombus wurflenii,Aconitum sp.,27/8/2006,P369,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Aconitum sp.,27/8/2006,P369,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Aconitum sp.,27/8/2006,P369,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P370,Survey2005-06,1843,1843,1800-2000
+Bombus lapidarius,Carduus defloratus,27/8/2006,P370,Survey2005-06,1843,1843,1800-2000
+Bombus sichelii,Carduus defloratus,27/8/2006,P371,Survey2005-06,1843,1843,1800-2000
+Bombus soroeensis,Carduus defloratus,27/8/2006,P372,Survey2005-06,1843,1843,1800-2000
+Bombus lapidarius,Carduus defloratus,27/8/2006,P372,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P372,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P372,Survey2005-06,1843,1843,1800-2000
+Bombus soroeensis,Carduus defloratus,27/8/2006,P372,Survey2005-06,1843,1843,1800-2000
+Bombus wurflenii,Aconitum sp.,27/8/2006,P373,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Aconitum sp.,27/8/2006,P373,Survey2005-06,1843,1843,1800-2000
+Bombus wurflenii,Aconitum sp.,27/8/2006,P374,Survey2005-06,1843,1843,1800-2000
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P374,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P375,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P375,Survey2005-06,1843,1843,1800-2000
+Bombus soroeensis,Carduus defloratus,27/8/2006,P375,Survey2005-06,1843,1843,1800-2000
+Bombus soroeensis,Carduus defloratus,27/8/2006,P375,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Carduus defloratus,27/8/2006,P376,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P377,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P377,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P377,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P378,Survey2005-06,1843,1843,1800-2000
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P378,Survey2005-06,1843,1843,1800-2000
+Bombus hortorum,Aconitum sp.,12/8/2005,P055,Survey2005-06,1853,1853,1800-2000
+Bombus wurflenii,Aconitum sp.,25/8/2005,P193,Survey2005-06,1859,1859,1800-2000
+Bombus soroeensis,Cirsium eriophorum,23/8/2006,P336,Survey2005-06,1883,1883,1800-2000
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P336,Survey2005-06,1883,1883,1800-2000
+Bombus mesomelas,Cirsium eriophorum,23/8/2006,P337,Survey2005-06,1883,1883,1800-2000
+Bombus soroeensis,Cirsium eriophorum,23/8/2006,P337,Survey2005-06,1883,1883,1800-2000
+Bombus mesomelas,Aconitum sp.,23/8/2006,P340,Survey2005-06,1883,1883,1800-2000
+Bombus pyrenaeus,Aconitum sp.,23/8/2006,P341,Survey2005-06,1883,1883,1800-2000
+Bombus mesomelas,Aconitum sp.,23/8/2006,P341,Survey2005-06,1883,1883,1800-2000
+Bombus mesomelas,Carduus defloratus,23/8/2006,P342,Survey2005-06,1883,1883,1800-2000
+Bombus sichelii,Carduus defloratus,23/8/2006,P342,Survey2005-06,1883,1883,1800-2000
+Bombus gerstaeckeri,Aconitum sp.,27/8/1889,cirque de Trumouse,Survey1889,1900,1900,1800-2000
+Bombus terrestris complex,Carduus carlinoides,18/8/1889,Port de Gavarnie,Survey1889,1900,1900,1800-2000
+Bombus sichelii,Galeopsis tetrahit,27/8/1889,cirque de Trumouse,Survey1889,2000,2000,2000-2200
+Bombus sichelii,Carduus carlinoides,15/8/1889,weg naar de Br�che de Roland (Gavarnie),Survey1889,2000,2000,2000-2200
+Bombus sichelii,Carduus carlinoides,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus monticola,Carduus defloratus,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus monticola,Trifolium repens,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus mesomelas,Cirsium eriophorum,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus mesomelas,Carduus carlinoides,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus ruderarius,Trifolium pratense,27/8/1889,Cirque de Trumouse,Survey1889,2000,2000,2000-2200
+Bombus terrestris complex,Carduus carlinoides,27/8/1889,cirque de Trumouse,Survey1889,2000,2000,2000-2200
+Bombus humilis,Carduus carlinoides,27/8/1889,Trumouse,Survey1889,2000,2000,2000-2200
+Bombus monticola,Thymus serpyllum,27/8/1889,Trumouse,Survey1889,2100,2100,2000-2200
+Bombus mesomelas,Carduus defloratus,23/8/2006,P335,Survey2005-06,2111,2111,2000-2200
+Bombus mesomelas,Carduus carlinoides,23/8/2006,P332,Survey2005-06,2215,2215,2000-2200
+Bombus mesomelas,Carduus carlinoides,23/8/2006,P333,Survey2005-06,2215,2215,2000-2200
+Bombus pascuorum,Lathyrus pyrenaicus?,9/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Lathyrus pyrenaicus?,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Teucrium scorodonia,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Teucrium scorodonia,5/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Centaurea nigra,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Centaurea nigra,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus lapidarius,Centaurea nigra,25/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus lapidarius,Centaurea nigra,25/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Scabiosa columbaria,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Scabiosa columbaria,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Satureja montana,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Satureja montana,26/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Centaurea nigra,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Centaurea nigra,5/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Centaurea nigra,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus humilis,Centaurea nigra,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus quadricolor,Centaurea nigra,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus quadricolor,Centaurea nigra,5/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Lathyrus pyrenaicus?,29/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Lathyrus pyrenaicus?,29/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Teucrium scorodonia,11/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Teucrium scorodonia,11/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus pascuorum,Teucrium scorodonia,26/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus pascuorum,Teucrium scorodonia,26/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,5/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,5/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Campanula rapunculoides,8/8/1889,Gedre,Survey1889,1000,1200,1200-1400
+Bombus terrestris complex,Campanula rapunculoides,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,9/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Campanula rapunculoides,9/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,9/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Campanula rapunculoides,10/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,10/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Campanula rapunculoides,10/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Rubus fruticosus,5/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Rubus fruticosus,5/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Rubus fruticosus,5/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Rubus fruticosus,8/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Rubus fruticosus,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Rubus fruticosus,8/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Rubus fruticosus,10/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Rubus fruticosus,10/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Rubus fruticosus,10/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Rubus fruticosus,29/8/1889,Gedre,Survey1889,1000,1000,1000-1200
+Bombus terrestris complex,Rubus fruticosus,29/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Rubus fruticosus,29/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus hortorum,Aconitum sp.,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Aconitum sp.,8/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Trifolium repens,6/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Trifolium repens,6/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus humilis,Carduus defloratus,6/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Carduus defloratus,6/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus humilis,Carduus defloratus,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus humilis,Carduus defloratus,8/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus quadricolor,Carduus defloratus,7/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus quadricolor,Carduus defloratus,7/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus quadricolor,Carduus defloratus,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus quadricolor,Carduus defloratus,8/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus hortorum,Aconitum sp.,12/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus hortorum,Aconitum sp.,12/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus terrestris complex,Trifolium repens,8/8/1889,Gedre,Survey1889,1100,1100,1000-1200
+Bombus terrestris complex,Trifolium repens,8/8/1889,Gedre,Survey1889,1200,1200,1200-1400
+Bombus hortorum,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1500,1500,1400-1600
+Bombus hortorum,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1500,1500,1400-1600
+Bombus wurflenii,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Aconitum sp.,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1500,1500,1400-1600
+Bombus wurflenii,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus hortorum,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1500,1500,1400-1600
+Bombus hortorum,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Aconitum sp.,16/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus hortorum,Aconitum sp.,17/8/1889,Gavarnie,Survey1889,1500,1500,1400-1600
+Bombus hortorum,Aconitum sp.,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus hortorum,Aconitum sp.,17/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus sichelii,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus sichelii,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus sichelii,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus sichelii,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus sichelii,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus mesomelas,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus mesomelas,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus mesomelas,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus mesomelas,Carduus defloratus,17/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus mesomelas,Carduus defloratus,17/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus mesomelas,Carduus defloratus,17/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus mesomelas,Carduus defloratus,23/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus mesomelas,Carduus defloratus,23/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus mesomelas,Carduus defloratus,23/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus terrestris complex,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus terrestris complex,Carduus defloratus,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Carduus defloratus,14/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus terrestris complex,Carduus defloratus,14/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus terrestris complex,Carduus defloratus,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus terrestris complex,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1550,1550,1400-1600
+Bombus terrestris complex,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus terrestris complex,Carduus defloratus,16/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Anthyllis vulneraria,14/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Anthyllis vulneraria,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Trifolium pratense,13/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Trifolium pratense,13/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Anthyllis vulneraria,16/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Anthyllis vulneraria,16/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus wurflenii,Trifolium pratense,14/8/1889,Gavarnie,Survey1889,1600,1600,1600-1800
+Bombus wurflenii,Trifolium pratense,14/8/1889,Gavarnie,Survey1889,1700,1700,1600-1800
+Bombus mesomelas,Carduus carlinoides,18/8/1889,"tussen Boucharol en den Port de Gavarnie, op de spaanse helling der pyreneeen",Survey1889,1800,1800,1800-2000
+Bombus mesomelas,Carduus carlinoides,18/8/1889,"tussen Boucharol en den Port de Gavarnie, op de spaanse helling der pyreneeen",Survey1889,1900,1900,1800-2000
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P356,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P356,Survey2005-06,2150,2150,2000-2200
+Bombus sichelii,Aconitum sp.,27/8/2006,P356,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P356,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P357,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P357,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P357,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P358,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P358,Survey2005-06,2150,2150,2000-2200
+Bombus sichelii,Aconitum sp.,27/8/2006,P358,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P358,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P358,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P359,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus soroeensis,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus ruderarius,Cirsium eriophorum,27/8/2006,P360,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P361,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P361,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P361,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P361,Survey2005-06,2150,2150,2000-2200
+Bombus wurflenii,Aconitum sp.,27/8/2006,P361,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus gerstaeckeri,Aconitum sp.,27/8/2006,P362,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P363,Survey2005-06,2150,2150,2000-2200
+Bombus mesomelas,Aconitum sp.,27/8/2006,P363,Survey2005-06,2150,2150,2000-2200
+Bombus pyrenaeus,Aconitum sp.,27/8/2006,P363,Survey2005-06,2150,2150,2000-2200
