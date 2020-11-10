@@ -11,4 +11,13 @@ Author list: Leon Marshall*, Floor Perdijk, Nicolas Dendoncker, William Kunin, S
 
 \* Corresponding author
 
+N.B We generated climate data using the ClimateEU software package (v. 4.63, available at http://tinyurl.com/ClimateEU), based on methodology described by Wang et al. (2016).
+"Historical data since 1901-2009 are based on the CRU-TS 3.1 dataset (Mitchell & Jones, 2005, Int J Climatol 25: 693-712) and has been updated to 2013 with CRU-TS 3.22." There is likely to be uncertainty with the porjections of historical temperature pre-1950, therefore the values shown in the paper should be considered in light of this information. 
+
+Mitchell, T. D., & Jones, P. D. (2005). An improved method of constructing a database of monthly climate observations and associated high‐resolution grids. International Journal of Climatology: A Journal of the Royal Meteorological Society, 25(6), 693-712. 
+
+Wang, T., Hamann, A. Spittlehouse, D.L. and Carroll, C. 2016. Locally downscaled and spatially customizable climate data for historical and future periods for North America. PLoS One 11: e0156720.   
+
+
 ![preneeslast 013](https://user-images.githubusercontent.com/33490288/96590862-d0cff600-12e6-11eb-8c70-2ff50e09bf6e.jpg)
+
